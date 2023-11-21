@@ -20,10 +20,10 @@ Clean and modular Python code for easy understanding
 https://github.com/administrator91/Packet_Sniffer/assets/143781304/b87a4ca0-1932-4ec6-86d9-3be4b2853725
 
 
-## -----------------------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------------------
 
 
-## 🚀 Python Calculator:
+## 🧮 Python Calculator:
 A versatile and user-friendly calculator program capable of performing basic arithmetic operations (addition, subtraction, multiplication, and division). Dive into the world of Python programming with this hands-on project, perfect for beginners and enthusiasts alike! 
 
 
@@ -44,7 +44,7 @@ Arithmetic operations (addition, subtraction, multiplication, and division)
 https://github.com/administrator91/Packet_Sniffer/assets/143781304/3c89db76-41f1-48c8-b6d2-f509b5bcb6b4
 
 
-## -----------------------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------------------
 
 ## 📝 Python ToDo List Application:
 Seamlessly manage your tasks with this simple yet powerful ToDo List application. Add tasks, view your agenda, mark items as complete, and stay organized effortlessly.
