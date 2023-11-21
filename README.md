@@ -14,3 +14,11 @@ Clean and modular Python code for easy understanding
 - open terminal here
 - python3 -m pip install colorama
 - python rock-paper-scissor.py
+
+## Demo
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🚀 Python Calculator:
+A versatile and user-friendly calculator program capable of performing basic arithmetic operations (addition, subtraction, multiplication, and division). Dive into the world of Python programming with this hands-on project, perfect for beginners and enthusiasts alike! 💻✨ #Python #Calculator #OpenSource #Programming.
+
